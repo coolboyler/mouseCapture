@@ -1,0 +1,7 @@
+{
+  "name": "MacroForge: Windows Automation Studio",
+  "description": "A sophisticated visual macro builder for generating native Windows automation scripts (AutoHotkey/Python) that run offline to simulate mouse and keyboard actions.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
